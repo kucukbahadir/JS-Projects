@@ -1,13 +1,14 @@
 const team = [
   {
     id: 1,
-    name: "susan jones",
-    job: "backend developer",
+    name: "bahadir kucuk",
+    job: "Web Designer",
     img:
-      "2.jpg",
+      "bahadir.jpg",
     text:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when anunknown printer took a galley of type",
+      "Hey ! I  am Computer Science student at VU University Amsterdam. I am working on many projects.Would you like me to work on your Project !",
   },
+
   {
     id: 2,
     name: "peter johnson",
@@ -26,15 +27,16 @@ const team = [
     text:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text eversince the 1500s, when an unknown printer took a galley of type",
   },
-  {
+  { 
     id: 4,
-    name: "bahadir kucuk",
-    job: "Web Designer",
+    name: "susan jones",
+    job: "backend developer",
     img:
-      "bahadir.jpg",
+      "2.jpg",
     text:
-      "Hey ! I  am Computer Science student at VU University Amsterdam. I am working on many projects.Would you like me to work on your Project !",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when anunknown printer took a galley of type",
   },
+
 ];
 
 const prev = document.querySelector('.prev-btn')
@@ -57,6 +59,7 @@ next.addEventListener('click',function(){
 })
 
 function givePerson(){
+  
   index = Math.floor(index % team.length)
   if(index < 0)index = team.length - 1;
 
