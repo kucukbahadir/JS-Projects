@@ -8,3 +8,5 @@
 [Team Members](https://team-members.netlify.app/)
 
 [Togge Navbar](https://toggle-navbar.netlify.app/)
+
+[Toggle sidebar](https://toggle-sidebar.netlify.app/)
