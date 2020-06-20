@@ -1,5 +1,5 @@
 # JS-Projects
-###You can see the projects by clicking the links below !
+You can see the projects by clicking the links below !
 
 
 [Background Color Flipper](https://background-color-flipper.netlify.app/)
