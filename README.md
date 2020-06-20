@@ -7,4 +7,4 @@
 
 [Team Members](https://team-members.netlify.app/)
 
-[Togge Navbar](toggle-navbar.netlify.app)
+[Togge Navbar](https://toggle-navbar.netlify.app/)
