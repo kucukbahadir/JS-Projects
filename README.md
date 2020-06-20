@@ -10,3 +10,5 @@
 [Togge Navbar](https://toggle-navbar.netlify.app/)
 
 [Toggle sidebar](https://toggle-sidebar.netlify.app/)
+
+[Modal](https://modall.netlify.app/)
