@@ -14,4 +14,6 @@ You can see the projects by clicking the links below !
 
 [Modal](https://modall.netlify.app/)
 
-[FAQ] (https://faqq.netlify.app/)
+[FAQ](https://faqq.netlify.app/)
+
+[Menu Filter](https://menu-filter.netlify.app/)
