@@ -13,3 +13,7 @@ You can see the projects by clicking the links below !
 [Toggle sidebar](https://toggle-sidebar.netlify.app/)
 
 [Modal](https://modall.netlify.app/)
+
+[FAQ](https://faqq.netlify.app/)
+
+[Menu Filter](https://menu-filter.netlify.app/)
