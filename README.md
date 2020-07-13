@@ -17,3 +17,5 @@ You can see the projects by clicking the links below !
 [FAQ](https://faqq.netlify.app/)
 
 [Menu Filter](https://menu-filter.netlify.app/)
+
+[Video](https://video-component.netlify.app/)
